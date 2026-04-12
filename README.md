@@ -1,16 +1,20 @@
-## Hi there 👋
+## Lorenzo Cassiani
 
-<!--
-**2ord98/2ord98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent AI/ML researcher & developer.
 
-Here are some ideas to get you started:
+### Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Model efficiency, representation learning, and applied machine learning systems.
+
+### Stack
+
+Python · PyTorch · CUDA · C#
+
+### Contact
+
+- Email: lorenzo.cassiani@gmail.com
+- LinkedIn: [lorenzo-cassiani](https://www.linkedin.com/in/lorenzo-cassiani-5b410b375/)
+
+---
+
+*Selected projects and research artifacts will be listed here as they are released.*
