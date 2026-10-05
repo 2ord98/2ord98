@@ -1,6 +1,6 @@
 ## Lorenzo Cassiani
 
-Independent AI/ML researcher & developer.
+AI researcher & developer.
 
 ### Interests
 
